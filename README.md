@@ -1,2 +1,2 @@
-# FakeNewsDetection
+# FakeNewsDetection  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tbt5FoF2zY7tLT7b6IGndS676PNcCjEz)
 We consume news through several mediums throughout the day in our daily routine, but sometimes it becomes difficult to decide which one is fake and which one is authentic. Our job is to create a model which predicts whether a given news is real or fake.
